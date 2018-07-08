@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/rakam-io/rakam.svg?branch=master)](https://travis-ci.org/rakam-io/rakam) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img alt="Deploy" src="https://www.herokucdn.com/deploy/button.png" height="21">](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Frakam-io%2Frakam&template=https%3A%2F%2Fgithub.com%2Frakam-io%2Frakam) [![Install on DigitalOcean](https://installer.71m.us/button.svg)](https://installer.71m.us/install?url=https://github.com/rakam-io/rakam)
+[![Build Status](https://travis-ci.org/rakam-io/rakam.svg?branch=master)](https://travis-ci.org/rakam-io/rakam) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img alt="Deploy" src="https://www.herokucdn.com/deploy/button.png" height="21">](https://dashboard.heroku.com/new?button-url=https://github.com/stackvendor/back&template=https://github.com/stackvendor/back) [![Install on DigitalOcean](https://installer.71m.us/button.svg)](https://installer.71m.us/install?url=https://github.com/rakam-io/rakam)
 
 Rakam
 =======

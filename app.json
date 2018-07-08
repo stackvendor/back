@@ -1,8 +1,8 @@
 {
-  "name": "Rakam",
+  "name": "Nalic",
   "description": "Your analytics service",
-  "website": "http://rakam.io",
-  "repository": "https://github.com/rakam-io/rakam",
+  "website": "http://nalic.ir",
+  "repository": "https://github.com/stackvendor/back",
   "logo": "https://avatars3.githubusercontent.com/u/18196166?v=3&s=200",
   "success_url": "/",
   "keywords": [
@@ -20,7 +20,7 @@
   ],
   "env": {
     "LOCK_KEY": {
-      "description": "Lock key for creating projects. You will need this key when you create a project in your Rakam cluster",
+      "description": "Lock key for creating projects. You will need this key when you create a project in your Nalic cluster",
       "required": true
     },
     "ENABLE_GEOIP_PLUGIN": {
