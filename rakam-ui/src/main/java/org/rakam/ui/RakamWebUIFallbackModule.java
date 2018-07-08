@@ -44,7 +44,7 @@ public class RakamWebUIFallbackModule extends RakamModule {
         @GET
         @Path("/")
         public void main(RakamHttpRequest request) {
-            request.response("Nalic back is running... ! \n---------- \n")
+            request.response("Welcome!\n" + "Nalic back is running... \n")
                     .end();
         }
     }
