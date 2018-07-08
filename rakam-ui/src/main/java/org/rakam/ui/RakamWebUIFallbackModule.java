@@ -44,8 +44,7 @@ public class RakamWebUIFallbackModule extends RakamModule {
         @GET
         @Path("/")
         public void main(RakamHttpRequest request) {
-            request.response("Rakam API is successfully installed! \n---------- \n" +
-                    "Visit app.rakam.io to register the API with Rakam BI or api.rakam.io for API documentation.")
+            request.response("Nalic back is running... ! \n---------- \n")
                     .end();
         }
     }
